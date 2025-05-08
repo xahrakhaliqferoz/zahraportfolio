@@ -26,10 +26,6 @@ Media queries included for:
 - iPad Pro / Medium Screens (1024px – 1279px)
 - Large screens (1280px and above)
 
-## 📸 Preview
-
-![Portfolio Preview](https://my-portfolio-ten-rho-25.vercel.app/)
-
 ## 📂 Folder Structure
 
 ```plaintext
