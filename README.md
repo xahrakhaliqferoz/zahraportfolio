@@ -28,7 +28,7 @@ Media queries included for:
 
 ## 📸 Preview
 
-![Portfolio Preview](insert-your-screenshot-url-here)
+![Portfolio Preview](https://my-portfolio-ten-rho-25.vercel.app/)
 
 ## 📂 Folder Structure
 
